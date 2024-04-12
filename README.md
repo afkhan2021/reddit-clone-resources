@@ -1,4 +1,4 @@
-🔹 Project Overview: We've developed a robust DevOps pipeline, streamlining processes from code commits to production deployment.
+🔹 Project Overview: I've developed a robust DevOps pipeline, streamlining processes from code commits to production deployment.
 
 🔹 Key Components: Git for version control, SonarQube for code analysis, NPM for dependency management, Trivy for security scanning, Docker for containerization, and Kubernetes for orchestration.
 
