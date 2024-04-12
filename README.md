@@ -8,4 +8,4 @@
 
 🔹 Reflection: Building this pipeline taught us the power of automation and careful tool selection in transforming the software development lifecycle.
 
-![1712419046392](https://github.com/afkhan2021/reddit-clone-resources/assets/90077167/372603c3-52f6-4c83-a165-d9385c6f7c2c)
+<img width="1671" alt="Screenshot 2024-04-12 at 9 41 59 AM" src="https://github.com/afkhan2021/reddit-clone-resources/assets/90077167/f0ddd40c-cd95-4207-a616-47b764ad0139">
